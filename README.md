@@ -1,10 +1,11 @@
 # Grass Mining Bot
 
 ## Register here:
-[https://app.getgrass.io/register/?referralCode=CAzM3AaohWlPRo3](https://app.getgrass.io/register/?referralCode=CAzM3AaohWlPRo3)
+[https://app.getgrass.io/register/?referralCode=FUnM-h84R2HpvYD](https://app.getgrass.io/register/?referralCode=FUnM-h84R2HpvYD)
 
-## Buy static residential proxies here ($4) it is recommended to choose US :
-[https://iproyal.com](https://iproyal.com)
+## Buy static residential proxies here it is recommended to choose US :
+https://app.proxy-cheap.com/r/xED8SX
+https://travchisproxies.com/billing/aff.php?aff=1207
 
 ### Tutorial
 
@@ -15,7 +16,7 @@
 
 2. After that, clone the repo:
     ```
-    git clone https://github.com/Semutireng22/grassbotgit && cd grassbot && pip3 install websockets_proxy && pip3 install loguru
+    git clone https://github.com/Semutireng22/grassbotgit && cd grassbot && pip3 install websockets_proxy loguru install aiohttp aiohttp_socks
     ```
 
 3. Then, edit main.py file in the "_user_id" and "socks5_proxy_list" sections. You can use: 
